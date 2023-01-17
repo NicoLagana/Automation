@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-17T11:41:57 ART" name="Default suite" finished-at="2023-01-17T11:42:24 ART" duration-ms="26780">
+    <groups>
+    </groups>
+    <test started-at="2023-01-17T11:41:57 ART" name="Default test" finished-at="2023-01-17T11:42:24 ART" duration-ms="26780">
+      <class name="Edit.AutomationPractice.asignacionClase6">
+        <test-method is-config="true" signature="abrirNavegador()[pri:0, instance:Edit.AutomationPractice.asignacionClase6@a1153bc]" started-at="2023-01-17T11:41:43 ART" name="abrirNavegador" finished-at="2023-01-17T11:41:57 ART" duration-ms="14387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abrirNavegador -->
+        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:1, instance:Edit.AutomationPractice.asignacionClase6@a1153bc]" started-at="2023-01-17T11:41:58 ART" name="logIn" description="LogIn en SauceDemo" data-provider="DatosLogin" finished-at="2023-01-17T11:42:01 ART" duration-ms="2485" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jk1h23jh21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:1, instance:Edit.AutomationPractice.asignacionClase6@a1153bc]" started-at="2023-01-17T11:42:01 ART" name="logIn" description="LogIn en SauceDemo" data-provider="DatosLogin" finished-at="2023-01-17T11:42:02 ART" duration-ms="1938" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tregt335435]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:1, instance:Edit.AutomationPractice.asignacionClase6@a1153bc]" started-at="2023-01-17T11:42:02 ART" name="logIn" description="LogIn en SauceDemo" data-provider="DatosLogin" finished-at="2023-01-17T11:42:05 ART" duration-ms="2126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[locked_out_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:1, instance:Edit.AutomationPractice.asignacionClase6@a1153bc]" started-at="2023-01-17T11:42:05 ART" name="logIn" description="LogIn en SauceDemo" data-provider="DatosLogin" finished-at="2023-01-17T11:42:07 ART" duration-ms="2018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:1, instance:Edit.AutomationPractice.asignacionClase6@a1153bc]" started-at="2023-01-17T11:42:07 ART" name="logIn" description="LogIn en SauceDemo" data-provider="DatosLogin" finished-at="2023-01-17T11:42:09 ART" duration-ms="1920" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:1, instance:Edit.AutomationPractice.asignacionClase6@a1153bc]" started-at="2023-01-17T11:42:09 ART" name="logIn" description="LogIn en SauceDemo" data-provider="DatosLogin" finished-at="2023-01-17T11:42:11 ART" duration-ms="2769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="compraCarrito(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:Edit.AutomationPractice.asignacionClase6@a1153bc]" started-at="2023-01-17T11:42:11 ART" name="compraCarrito" description="Compra de carrito" data-provider="DatosCarrito" finished-at="2023-01-17T11:42:24 ART" duration-ms="12585" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nombre 1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Apellido 1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compraCarrito -->
+        <test-method is-config="true" signature="cerrarNavegador()[pri:0, instance:Edit.AutomationPractice.asignacionClase6@a1153bc]" started-at="2023-01-17T11:42:24 ART" name="cerrarNavegador" finished-at="2023-01-17T11:42:24 ART" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarNavegador -->
+      </class> <!-- Edit.AutomationPractice.asignacionClase6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
